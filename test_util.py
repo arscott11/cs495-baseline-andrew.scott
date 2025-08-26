@@ -14,6 +14,6 @@ def tests():
         if result == expected:
             print(f"Test {i+1} passed")
         else:
-            print(f"Test {i+1} failed: got {result}, expected {expected}")
+            print(f"Test {i+1} failed\n got {result}\n expected {expected}")
 
 tests()
