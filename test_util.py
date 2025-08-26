@@ -1,17 +1,19 @@
 from utils import first_unique_char
 
-
 def tests():
-    test1 = "leetcode"
-    test2 = "Lolwhato"
-    test3 = "adadbcbbc"
-    expected1 = 0
-    expected2 = 1
-    expected3 = -1
+    test_cases = [
+        ("leetcode", 0),
+        ("lolwhato", 3),
+        ("adadbcbbc", -1),
+        ("Lolwhato", 3)
+    ]
 
-    test1Result = first_unique_char(test1)
-    if (test1Result == expected1):
-        print("Test 1 passed")
-    else: print("Test 1 failed")
+    for i in range(len(test_cases)):
+        input_str, expected = test_cases[i]  
+        result = first_unique_char(input_str)
+        if result == expected:
+            print(f"Test {i+1} passed")
+        else:
+            print(f"Test {i+1} failed: got {result}, expected {expected}")
 
 tests()
