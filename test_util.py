@@ -5,7 +5,7 @@ def tests():
         ("leetcode", 0),
         ("lolwhato", 3),
         ("adadbcbbc", -1),
-        ("Lolwhato", 2)
+        ("Lolwhato", 3)
     ]
 
     for i in range(len(test_cases)):
