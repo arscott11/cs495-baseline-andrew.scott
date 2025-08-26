@@ -7,7 +7,7 @@
 
 * The largest program I worked on was the Guitar chord app I explained above. This was done with 3 other members and was our final project in CS 222 programmed in dart.
  
-* I'd say I'm most comfortable writing python scripts, and solving small problems through code.
+* I'd say I'm most comfortable writing python and java scripts as well as solving small problems through code.
  
 * I'm least comfortable with front-end development. I haven't coded in languages such as CSS and JavaScript that are frequently seen in front end development. I also get quite
   confused sometimes when it comes to implementation from back end to front end.
