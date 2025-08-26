@@ -10,4 +10,6 @@
 * I'd say I'm most comfortable writing python scripts, and solving small problems through code.
  
 * I'm least comfortable with front-end development. I haven't coded in languages such as CSS and JavaScript that are frequently seen in front end development. I also get quite
-  confused sometimes when it comes to implementation from back end to front end. 
+  confused sometimes when it comes to implementation from back end to front end.
+
+* My major is Computer Science with a concentration in CyberSecurity. I am also hoppening to minor in IT.
